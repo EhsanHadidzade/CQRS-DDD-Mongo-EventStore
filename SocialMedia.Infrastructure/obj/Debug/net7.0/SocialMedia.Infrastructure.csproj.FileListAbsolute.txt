@@ -1,0 +1,17 @@
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.csproj.AssemblyReference.cache
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.AssemblyInfoInputs.cache
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.AssemblyInfo.cs
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Infrastructure\bin\Debug\net7.0\SocialMedia.Infrastructure.deps.json
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Infrastructure\bin\Debug\net7.0\SocialMedia.Infrastructure.dll
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Infrastructure\bin\Debug\net7.0\SocialMedia.Infrastructure.pdb
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Infrastructure\bin\Debug\net7.0\SocialMedia.Core.dll
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Infrastructure\bin\Debug\net7.0\SocialMedia.Domain.dll
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Infrastructure\bin\Debug\net7.0\SocialMedia.Domain.pdb
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Infrastructure\bin\Debug\net7.0\SocialMedia.Core.pdb
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.csproj.CopyComplete
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.dll
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\refint\SocialMedia.Infrastructure.dll
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.pdb
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\ref\SocialMedia.Infrastructure.dll

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "DyQfFr1JRRMIMrHEXsO3Pw8a7fBJsSAq4L2gQmY0S0LgYNV94FXuNxA1rgZBds8Gw6axg1SvKCpENmgR/CJWdg==",
+  "success": true,
+  "projectFilePath": "D:\\MySamples\\CQRS-DDD-Mongo\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WIN 10\\.nuget\\packages\\jsonnet.contractresolvers\\2.0.0\\jsonnet.contractresolvers.2.0.0.nupkg.sha512",
+    "C:\\Users\\WIN 10\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\WIN 10\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\WIN 10\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\WIN 10\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\WIN 10\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\WIN 10\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\WIN 10\\.nuget\\packages\\system.reflection.typeextensions\\4.5.1\\system.reflection.typeextensions.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

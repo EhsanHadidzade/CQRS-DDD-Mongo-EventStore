@@ -1,0 +1,17 @@
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Application\bin\Debug\net7.0\SocialMedia.Application.deps.json
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Application\bin\Debug\net7.0\SocialMedia.Application.dll
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Application\bin\Debug\net7.0\SocialMedia.Application.pdb
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Application\obj\Debug\net7.0\SocialMedia.Application.csproj.AssemblyReference.cache
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Application\obj\Debug\net7.0\SocialMedia.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Application\obj\Debug\net7.0\SocialMedia.Application.AssemblyInfoInputs.cache
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Application\obj\Debug\net7.0\SocialMedia.Application.AssemblyInfo.cs
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Application\obj\Debug\net7.0\SocialMedia.Application.csproj.CoreCompileInputs.cache
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Application\obj\Debug\net7.0\SocialMedia.Application.dll
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Application\obj\Debug\net7.0\refint\SocialMedia.Application.dll
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Application\obj\Debug\net7.0\SocialMedia.Application.pdb
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Application\obj\Debug\net7.0\ref\SocialMedia.Application.dll
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Application\bin\Debug\net7.0\SocialMedia.Core.dll
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Application\bin\Debug\net7.0\SocialMedia.Domain.dll
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Application\bin\Debug\net7.0\SocialMedia.Core.pdb
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Application\bin\Debug\net7.0\SocialMedia.Domain.pdb
+D:\MySamples\CQRS-DDD-Mongo\SocialMedia\SocialMedia.Application\obj\Debug\net7.0\SocialMedia.Application.csproj.CopyComplete
